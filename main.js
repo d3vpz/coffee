@@ -5,5 +5,8 @@ engine.displayWindow();
 
 let morshu_image = new CoffeeSprite('morshu', 128, 128);
 
-engine.cropSprite(0, 0, 128, 128);
-engine.drawSprite(morshu_image, 0, 0);
+setInterval(() => {
+    engine.wipe();
+    engine.fillRect(0, 0, 320, 240);
+    engine.drawSprite(morshu_image, 0, 0);
+}, 0);
