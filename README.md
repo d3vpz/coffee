@@ -3,5 +3,5 @@ A JavaScript game engine made for ease of use and simplicity, while still being 
 
 ## Installation
 ```console
-sh coffee_update.sh
+git clone https://github.com/d3vpz/coffee.git <PROJECT NAME>
 ```
