@@ -7,6 +7,8 @@ To setup a Coffee project, paste this line of code in the terminal, making sure 
 git clone https://github.com/d3vpz/coffee.git <PROJECT NAME>
 ```
 ## Updating
+To update the Coffee library to the latest release, paste this text in your terminal, making sure your directory is set to the root directory of your project.
 ```console
 sh coffee_update.sh
 ```
+This will fetch the library files from the github repository and replace the old ones with the new ones. Don't worry, your project will stay the same.
