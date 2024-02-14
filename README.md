@@ -2,6 +2,6 @@
 A JavaScript game engine made for ease of use and simplicity, while still being quite open for modification and changes.
 
 ## Installation
-```bash
+```console
 sh coffee_update.sh
 ```
