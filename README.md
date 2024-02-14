@@ -16,5 +16,5 @@ This will fetch the library files from the github repository and replace the old
 ### IF YOU DON'T HAVE THE SCRIPT
 If you are on a version of Coffee that does not have the update script, write this command in the root of your project directory.
 ```console
-wget https://raw.githubusercontent.com/d3vpz/coffee/main/coffee_update.sh
+wget https://raw.githubusercontent.com/d3vpz/coffee/main/coffee_update.sh -O coffee_update.sh
 ```
