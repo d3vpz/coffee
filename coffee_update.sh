@@ -1,4 +1,5 @@
 #!/bin/bash
+
 cd lib
 
 wget https://raw.githubusercontent.com/d3vpz/coffee/main/lib/coffee_main.js -O coffee_main.js
