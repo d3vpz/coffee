@@ -12,3 +12,9 @@ To update the Coffee library to the latest release, paste this text in your term
 sh coffee_update.sh
 ```
 This will fetch the library files from the github repository and replace the old ones with the new ones. Don't worry, your project will stay the same.
+
+### IF YOU DON'T HAVE THE SCRIPT
+If you are on a version of Coffee that does not have the update script, write this command in the root of your project directory.
+```console
+wget https://raw.githubusercontent.com/d3vpz/coffee/main/coffee_update.sh -O coffee_update.sh
+```
