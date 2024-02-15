@@ -1,7 +1,6 @@
 let engine = new Coffee();
 
-engine.createWindow();
+engine.createWindow(320, 240);
 engine.displayWindow();
 
-engine.fillColor = 'black';
-engine.fillRect(0, 0, 320, 240);
+engine.cover('black');
