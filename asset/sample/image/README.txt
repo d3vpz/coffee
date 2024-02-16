@@ -1,0 +1,1 @@
+You can delete these images. The library is not dependent on these.
