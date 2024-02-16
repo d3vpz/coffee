@@ -9,6 +9,5 @@ cd ..
 
 wget https://raw.githubusercontent.com/d3vpz/coffee/main/coffee_update.sh -O coffee_update.sh
 
-BOLD=$(tput bold)
 GREEN='\033[1;32m'
 echo "${GREEN}Coffee has been updated successfully.\n"
