@@ -18,5 +18,4 @@ If you are on a version of Coffee that does not have the update script, write th
 ```console
 wget https://raw.githubusercontent.com/d3vpz/coffee/main/coffee_update.sh -O coffee_update.sh
 ```
-
-You can find documentation [here.](https://github.com/d3vpz/coffee/wiki)
+If you want to learn more, you can find documentation on the library [here.](https://github.com/d3vpz/coffee/wiki)
