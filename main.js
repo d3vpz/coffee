@@ -1,6 +1,6 @@
 let engine = new Coffee();
 
-engine.createWindow(320, 240);
+engine.createWindow();
 engine.displayWindow();
 
 engine.cover('black');
