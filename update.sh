@@ -7,7 +7,7 @@ wget https://raw.githubusercontent.com/d3vpz/coffee/main/lib/coffee_math.js -O c
 
 cd ..
 
-wget https://raw.githubusercontent.com/d3vpz/coffee/main/coffee_update.sh -O coffee_update.sh
+wget https://raw.githubusercontent.com/d3vpz/coffee/main/update.sh -O coffee_update.sh
 wget https://raw.githubusercontent.com/d3vpz/coffee/main/package.sh -O package.sh
 
 GREEN='\033[1;32m'
