@@ -16,6 +16,6 @@ This will fetch the library and script files from the github repository and repl
 ### IF YOU DON'T HAVE THE SCRIPT OR SCRIPT DOESN'T UPDATE
 If you are on a version of Coffee that does not have the update script or the update script cannot update itself, write this command in the root of your project directory.
 ```console
-wget https://raw.githubusercontent.com/d3vpz/coffee/main/coffee_update.sh -O update.sh
+wget https://raw.githubusercontent.com/d3vpz/coffee/main/update.sh -O update.sh
 ```
 If you want to learn more, you can find documentation on the library [here.](https://github.com/d3vpz/coffee/wiki)
