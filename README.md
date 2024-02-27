@@ -18,4 +18,7 @@ If you are on a version of Coffee that does not have the update script or the up
 ```console
 wget https://raw.githubusercontent.com/d3vpz/coffee/main/update.sh -O update.sh
 ```
+### Command Doesn't Work?
+If the `wget` command doesn't work on your command line, you can just download the `update.sh` file and drag it into your root directory.
+<br><br>
 If you want to learn more, you can find documentation on the library [here.](https://github.com/d3vpz/coffee/wiki)
